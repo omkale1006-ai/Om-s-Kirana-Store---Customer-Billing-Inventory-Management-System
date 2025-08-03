@@ -1,0 +1,21 @@
+
+===== Final Bill =====
+Customer Name : om nagnath kale
+Phone Number  : 7775983924
+Email Address : kaleom5757@gmail.com
+------------------------------
+Wheat - ₹45.0 x 2 = ₹90.0
+
+Total Amount Payable: ₹90.0
+==================================================
+
+===== Final Bill =====
+Customer Name : jay nagnath kale
+Phone Number  : 9356741656
+Email Address : jaykale051@gmail.com
+------------------------------
+Tur Dal - ₹90.0 x 5 = ₹450.0
+Tur Dal - ₹90.0 x 7 = ₹630.0
+
+Total Amount Payable: ₹1080.0
+==================================================

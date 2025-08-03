@@ -1,0 +1,32 @@
+Wheat,50.0,100
+Rice,55.0,80
+Sugar,42.0,60
+Salt,20.0,150
+Tur Dal,90.0,38
+Chana Dal,95.0,40
+Toor Dal,105.0,35
+Moong Dal,110.0,30
+Besan,80.0,45
+Maida,50.0,50
+Rava,48.0,40
+Poha,35.0,60
+Atta,52.0,70
+Oil,130.0,30
+Tea,150.0,25
+Coffee,250.0,20
+Milk Powder,180.0,15
+Toothpaste,55.0,40
+Soap,30.0,100
+Shampoo,85.0,35
+Detergent,120.0,25
+Toilet Cleaner,75.0,20
+Biscuit,10.0,200
+Chips,20.0,150
+Cold Drink,40.0,80
+Pickle,60.0,25
+Papad,45.0,30
+Ice Cream,30.0,40
+Coconut Oil,95.0,25
+Ghee,520.0,10
+Kurkure,5.0,100
+Chatakapataka,5.0,100
